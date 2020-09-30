@@ -13,7 +13,6 @@ public class santaDriver extends santaHelper {
 	static santaHelper helper = new santaHelper();
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub5
 
 		Map<String, Boolean> santaMap = new HashMap<String, Boolean>();
 		Map<String, Boolean> recievingMap = new HashMap<String, Boolean>();
